@@ -1,0 +1,10 @@
+
+
+{
+  "scripts" : {
+    "build": "browserify script.js > build.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
